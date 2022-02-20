@@ -1,0 +1,18 @@
+nav {
+  border-radius: 30px;
+}
+h1 {
+  font-family: "Akaya Telivigala", sans-serif;
+  text-align: center;
+}
+.nav-link:hover {
+  border-radius: 30px;
+  background-color: aqua;
+}
+
+.navbar-text {
+  font-family: "Akaya Telivigala", sans-serif;
+}
+p {
+  font-family: "Akaya Telivigala", sans-serif;
+}
